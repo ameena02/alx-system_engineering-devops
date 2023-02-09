@@ -7,3 +7,4 @@ current dir content user group Ids
 creates a directory named
 Move the file betty from tmp
 delete file betty
+Delete the directory
