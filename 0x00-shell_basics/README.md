@@ -8,3 +8,4 @@ creates a directory named
 Move the file betty from tmp
 delete file betty
 Delete the directory
+change the working directory
