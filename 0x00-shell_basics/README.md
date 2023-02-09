@@ -9,3 +9,4 @@ Move the file betty from tmp
 delete file betty
 Delete the directory
 change the working directory
+ lists all files
