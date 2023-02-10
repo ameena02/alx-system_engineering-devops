@@ -11,3 +11,4 @@ Delete the directory
 change the working directory
  lists all files
 type of file
+type of file
