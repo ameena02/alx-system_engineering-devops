@@ -17,3 +17,4 @@ copy all html file
 move all files starting with Uppercase
 deletes all files
 creates dirs welcome to school
+lists all files and dirs
