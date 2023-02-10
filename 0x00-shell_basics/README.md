@@ -19,3 +19,5 @@ deletes all files
 creates dirs welcome to school
 lists all files and dirs
 create a magic file
+create a magic file
+create a magic file
