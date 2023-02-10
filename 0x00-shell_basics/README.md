@@ -14,3 +14,4 @@ type of file
 type of file
 symbolic ink in current working dir
 copy all html file
+move all files starting with Uppercase
