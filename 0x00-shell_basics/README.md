@@ -16,3 +16,4 @@ symbolic ink in current working dir
 copy all html file
 move all files starting with Uppercase
 deletes all files
+creates dirs welcome to school
