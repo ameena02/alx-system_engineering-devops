@@ -13,3 +13,4 @@ change the working directory
 type of file
 type of file
 symbolic ink in current working dir
+copy all html file
