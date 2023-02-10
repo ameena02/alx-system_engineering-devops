@@ -12,3 +12,4 @@ change the working directory
  lists all files
 type of file
 type of file
+symbolic ink in current working dir
