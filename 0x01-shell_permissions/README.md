@@ -10,3 +10,4 @@ adds execution permission to the owner, the group owner and the other users, to 
 A script that sets the permission to the file
 a script that sets the mode of the file
 a script that sets the mode of the file
+a script that sets the mode of the file
