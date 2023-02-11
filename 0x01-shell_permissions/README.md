@@ -9,3 +9,4 @@ adds execute permission to the owner and the group owner, and read permission to
 adds execution permission to the owner, the group owner and the other users, to the file
 A script that sets the permission to the file
 a script that sets the mode of the file
+a script that sets the mode of the file
