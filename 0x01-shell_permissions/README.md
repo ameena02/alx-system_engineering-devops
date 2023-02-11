@@ -15,3 +15,4 @@ a script that adds execute permission to all subdirectories of the current direc
 a script that creates a directory with permissions 751
 change the group owner to school for the file hello
 a script that changes the owner to vincent and grp owner to staff
+a script that changes the owner to vincent and grp owner to staff
