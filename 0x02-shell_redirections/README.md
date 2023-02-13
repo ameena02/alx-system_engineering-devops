@@ -1,1 +1,1 @@
-hello world for standard i/o
+script to print hello world to the standard output
