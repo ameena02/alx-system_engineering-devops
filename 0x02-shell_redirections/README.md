@@ -7,3 +7,4 @@ display the first 10 lines of a file
 display the third line of the file
 create a file named exactly
 a script that writes into the file
+a script that duplicates the last line of the file
