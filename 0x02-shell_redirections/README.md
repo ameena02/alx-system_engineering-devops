@@ -18,3 +18,4 @@ Display the number of lines that contain the pattern “bin” in the file
 Display lines containing the pattern “root” and 3 lines after them in the file
 Display all the lines in the file
 Display all lines of the file
+Replace all characters
