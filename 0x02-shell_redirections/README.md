@@ -19,3 +19,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display all the lines in the file
 Display all lines of the file
 Replace all characters
+Create a script that removes all letters
